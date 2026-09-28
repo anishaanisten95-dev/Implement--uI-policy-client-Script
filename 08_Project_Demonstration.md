@@ -1,7 +1,7 @@
 # Phase 8: Project Demonstration Phase
 
 ## Project Video Information
-- **Demo Video Drive Link:** `[PASTE_YOUR_PUBLIC_GOOGLE_DRIVE_VIDEO_LINK_HERE]`
+- **Demo Video Drive Link:** `[https://drive.google.com/file/d/1b3oDQoMJ0mL-d0XWSJ8Pno1GwgbuLiR3/view?usp=sharing]`
 *(Note: Ensure link permissions are set to "Anyone with the link can view")*
 
 ## Video Demonstration Outline
