@@ -24,3 +24,9 @@ The testing phase validates that all client-side configurations (UI Policies, UI
 - **onChange Client Script:** Confirmed auto-setting of `Urgency` to `1` and banner message output when `Impact` becomes `1`.
 - **onSubmit Client Script:** Verified block on save when `Assigned To` is blank under high impact conditions.
 - **onCellEdit Client Script:** Verified list view state modifications are properly intercepted and blocked via pop-up alert.
+
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a5c7c526-84dc-4967-b07a-dfa630f67388" />
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/80e22495-060e-4b7f-8e0a-44635bc86d63" />
+  
+
+
